@@ -5,9 +5,15 @@ _ Dimo Eldison: creazione mappa ed esecuzione della simulazione<br>
 _ Vicario Rudy: creazione mondo Gazebo<br>
 
 ## Descrizione progetto
-L'obiettivo di questo homework è la creazione di un mondo virtuale in Gazebo in cui poter far muovere il modello simulato di un TurtleBot3.<br>
+L'obiettivo di questo homework è la creazione di un mondo virtuale in Gazebo, che riproduca una parte a scelta del dipartimento di informatica, in cui poter far muovere il modello simulato di un TurtleBot3.<br>
 Come scenario abbiamo scelto di ricostruire il laboratorio Altair presente nel dipartimento di Informatica (Ca' Vignal 2).<br>
-[foto del lab]
+![alt text](images/foto1.jpg "foto1")
+![alt text](images/foto2.jpg "foto2")
+![alt text](images/foto3.jpg "foto3")
+![alt text](images/foto4.jpg "foto4")
+
+## Mappa
+![alt text](rviz_altair_map.pgm "mappa")
 
 ## Istruzioni per l'installazione
 1. Scaricare il ROS package TurtleBot3 Simulation per poter simulare TurtleBot3 sul proprio PC<br>
@@ -63,3 +69,5 @@ $ roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/l
 $ export TURTLEBOT3_MODEL=waffle
 $ rosrun rviz rviz -d `rospack find turtlebot3_navigation`rviz/turtlebot3_nav.rviz
 ```
+## Video della navigazione autonoma
+![alt text](video/video.MP4 "video")
