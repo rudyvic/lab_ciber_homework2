@@ -60,7 +60,7 @@ Aprire, quindi, un nuovo terminale e digitare
 $ export TURTLEBOT3_MODEL=waffle
 $ rosrun map_server map_saver -f $HOME/environment_map
 ```
-Dove <i>environment_map<\i> è il nome che abbiamo attribuito alla mappa appena creata.
+Dove <i>environment_map</i> è il nome che abbiamo attribuito alla mappa appena creata.
 
 ## Navigazione autonoma
 Per la navigazione autonoma abbiamo utilizzato <b>turtlebot3_navigation</b>
