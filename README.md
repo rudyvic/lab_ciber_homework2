@@ -15,7 +15,7 @@ Come scenario abbiamo scelto di ricostruire il laboratorio Altair presente nel d
 ![foto4](images/foto4.jpeg "foto4")
 
 ### Mappa
-![mappa](rviz_altair_map.pgm "mappa")
+![mappa](rviz_altair_map.png "mappa")
 
 ## Istruzioni per l'installazione
 1. Scaricare il ROS package TurtleBot3 Simulation per poter simulare TurtleBot3 sul proprio PC<br>
