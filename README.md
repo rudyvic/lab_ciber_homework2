@@ -54,7 +54,8 @@ $ rosrun rviz rviz -d `rospack find turtlebot3_slam`rviz/turtlebot3_slam.rviz
 $ export TURTLEBOT3_MODEL=waffle
 $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 ```
-5. Aprire un nuovo terminale e digitare
+Una volta ottenuta la mappa completa dell'ambiente, dobbiamo salvarla: 
+Aprire, quindi, un nuovo terminale e digitare
 ```console
 $ export TURTLEBOT3_MODEL=waffle
 $ rosrun map_server map_saver -f $HOME/lab_ciber_homework2
