@@ -58,8 +58,10 @@ Una volta ottenuta la mappa completa dell'ambiente, dobbiamo salvarla.<br>
 Aprire, quindi, un nuovo terminale e digitare
 ```console
 $ export TURTLEBOT3_MODEL=waffle
-$ rosrun map_server map_saver -f $HOME/lab_ciber_homework2
+$ rosrun map_server map_saver -f $HOME/environment_map
 ```
+Dove <i>environment_map<\i> è il nome che abbiamo attribuito alla mappa appena creata.
+
 ## Navigazione autonoma
 Per la navigazione autonoma abbiamo utilizzato <b>turtlebot3_navigation</b>
 1. Aprire un nuovo terminale e digitare
