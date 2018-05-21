@@ -58,9 +58,9 @@ Una volta ottenuta la mappa completa dell'ambiente, dobbiamo salvarla.<br>
 Aprire, quindi, un nuovo terminale e digitare
 ```console
 $ export TURTLEBOT3_MODEL=waffle
-$ rosrun map_server map_saver -f $HOME/environment_map
+$ rosrun map_server map_saver -f $HOME/rviz_altair_map
 ```
-Dove <i>environment_map</i> è il nome che abbiamo attribuito alla mappa appena creata.
+Dove <i>rviz_altair_map</i> è il nome che abbiamo attribuito alla mappa appena creata.
 
 ## Navigazione autonoma
 Per la navigazione autonoma abbiamo utilizzato <b>turtlebot3_navigation</b>
