@@ -54,7 +54,7 @@ $ rosrun rviz rviz -d `rospack find turtlebot3_slam`rviz/turtlebot3_slam.rviz
 $ export TURTLEBOT3_MODEL=waffle
 $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 ```
-Una volta ottenuta la mappa completa dell'ambiente, dobbiamo salvarla:<br> 
+Una volta ottenuta la mappa completa dell'ambiente, dobbiamo salvarla.<br> 
 Aprire, quindi, un nuovo terminale e digitare
 ```console
 $ export TURTLEBOT3_MODEL=waffle
