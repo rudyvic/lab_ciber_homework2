@@ -12,6 +12,7 @@ Come scenario abbiamo scelto di ricostruire il laboratorio Altair presente nel d
 ![alt text](images/foto3.jpg "foto3")
 ![alt text](images/foto4.jpg "foto4")
 
+
 ## Mappa
 ![alt text](rviz_altair_map.pgm "mappa")
 
