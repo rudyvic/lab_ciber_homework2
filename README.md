@@ -7,12 +7,14 @@ _ Vicario Rudy: creazione mondo Gazebo<br>
 ## Descrizione progetto
 L'obiettivo di questo homework è la creazione di un mondo virtuale in Gazebo, che riproduca una parte a scelta del dipartimento di informatica, in cui poter far muovere il modello simulato di un TurtleBot3.<br>
 Come scenario abbiamo scelto di ricostruire il laboratorio Altair presente nel dipartimento di Informatica (Ca' Vignal 2).<br>
-![alt text](https://github.com/rudyvic/lab_ciber_homework2.git/images/foto1.jpeg "foto1")
-![alt text](https://github.com/rudyvic/lab_ciber_homework2.git/images/foto2.jpeg "foto2")
-![alt text](https://github.com/rudyvic/lab_ciber_homework2.git/images/foto3.jpeg "foto3")
+
+### Foto del laboratorio Altair
+![alt text](images/foto1.jpeg "foto1")
+![alt text](images/foto2.jpeg "foto2")
+![alt text](images/foto3.jpeg "foto3")
 ![alt text](images/foto4.jpeg "foto4")
 
-## Mappa
+### Mappa
 ![alt text](https://github.com/rudyvic/lab_ciber_homework2.git/rviz_altair_map.pgm "mappa")
 
 ## Istruzioni per l'installazione
@@ -69,5 +71,5 @@ $ roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/l
 $ export TURTLEBOT3_MODEL=waffle
 $ rosrun rviz rviz -d `rospack find turtlebot3_navigation`rviz/turtlebot3_nav.rviz
 ```
-## Video della navigazione autonoma
-![alt text](https://github.com/rudyvic/lab_ciber_homework2.git/video/video.MP4 "video")
+### Video della navigazione autonoma
+![alt text](https://github.com/rudyvic/lab_ciber_homework2/blob/master/video/video.MP4 "video")
