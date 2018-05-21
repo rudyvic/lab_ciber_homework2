@@ -5,7 +5,7 @@ _ Dimo Eldison: creazione mappa ed esecuzione della simulazione<br>
 _ Vicario Rudy: creazione mondo Gazebo<br>
 
 ## Descrizione progetto
-L'obiettivo di questo homework è la creazione di un mondo virtuale in Gazebo, che riproduca una parte a scelta del dipartimento di informatica, in cui poter far muovere il modello simulato di un TurtleBot3.<br>
+L'obiettivo di questo homework è la creazione di un mondo virtuale in Gazebo che riproduca una parte a scelta del dipartimento di informatica in cui poter far muovere il modello simulato di un TurtleBot3.<br>
 Come scenario abbiamo scelto di ricostruire il laboratorio Altair presente nel dipartimento di Informatica (Ca' Vignal 2).<br>
 
 ### Foto del laboratorio Altair
