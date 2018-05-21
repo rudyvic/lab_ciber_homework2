@@ -9,13 +9,13 @@ L'obiettivo di questo homework è la creazione di un mondo virtuale in Gazebo ch
 Come scenario abbiamo scelto di ricostruire il laboratorio Altair presente nel dipartimento di Informatica (Ca' Vignal 2).<br>
 
 ### Foto del laboratorio Altair
-![alt text](images/foto1.jpeg "foto1")
+[alt text](images/foto1.jpeg "foto1")
 ![alt text](images/foto2.jpeg "foto2")
 ![alt text](images/foto3.jpeg "foto3")
 ![alt text](images/foto4.jpeg "foto4")
 
 ### Mappa
-![alt text](https://github.com/rudyvic/lab_ciber_homework2.git/rviz_altair_map.pgm "mappa")
+![alt text](rviz_altair_map.pgm "mappa")
 
 ## Istruzioni per l'installazione
 1. Scaricare il ROS package TurtleBot3 Simulation per poter simulare TurtleBot3 sul proprio PC<br>
